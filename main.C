@@ -1,6 +1,10 @@
 #include <cstdlib>
 
+#include <CL/cl2.hpp>
+
 #include "easylogging++.h"
+
+using namespace cl;
 
 INITIALIZE_EASYLOGGINGPP
 
